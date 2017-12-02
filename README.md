@@ -1,2 +1,2 @@
 # pruebaLHD
-Repository os test
+Repository of test
